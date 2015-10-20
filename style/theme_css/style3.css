@@ -65,7 +65,7 @@ h1 {
 
 	font-weight: 900;
 
-	text-shadow: 3px 3px #222;
+	/*text-shadow: 3px 3px #222;*/
 
 }
 
@@ -92,7 +92,7 @@ text-decoration:none;
 
 h3{
 
-margin-top:35px;
+margin-top:25px;
 
 }
 
@@ -144,7 +144,7 @@ h2 {
 	margin-left:15px;
 	margin-right:15px;
 
-	text-shadow: 3px 3px #222;
+	/*text-shadow: 3px 3px #222;*/
 	
 	/*display: inline-block;*/
 }
@@ -199,19 +199,19 @@ h6 small,
 .h5 small,
 .h6 small {
   color: #777;
- 	text-shadow: 3px 3px #222;
+ 	/*text-shadow: 3px 3px #222;*/
 }
 
 
 .well{
 	/*border-radius:0px 20px 0px 0px;*/
-	border-radius:0px 0px 0px 0px;
+	border-radius:5px 5px 5px 5px;
 	background-color:#eeeeee;
 	border: none;
 	
-	-webkit-border-radius: 0px 0px 0px 0px;
-       -moz-border-radius: 0px 0px 0px 0px;
-            border-radius: 0px 0px 0px 0px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+       -moz-border-radius: 5px 5px 5px 5px;
+            border-radius: 5px 5px 5px 5px;
 			
 	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
 		    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 3px 0px;
@@ -653,7 +653,7 @@ Maybe dumb the footer unless descriptions will be added*/
 
 .header-container-narrow {
 	margin: 0 auto;
-	background:url('../../img/seoul_large.jpg');
+	background:url('../../img/seoul2_web.jpg');
 	background-size: 950px 450px;
 	height:450px;
 	
@@ -673,13 +673,13 @@ Maybe dumb the footer unless descriptions will be added*/
 	-moz-box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.3);
 	box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.3);*/
 	
-	border: 1px solid #e3e3e3;
+	border: 2px solid #e3e3e3;
   -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
           box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
 
-	-webkit-border-radius: 0px;
-	-moz-border-radius: 0px;
-	border-radius: 0px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
 
 
 }
